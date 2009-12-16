@@ -1,11 +1,11 @@
 Photoshop Scripts
 =================
-by Joe Minkiewicz
-edited from originals provided with CS4
 
+edited by Joe Minkiewicz from the originals provided with CS4
+
+_tested only with CS4 on a Mac_
 
 ### Layer Comps to Files.jsx
-_(CS4)_
 
 When I found out about Layer Comps in Photoshop two things bugged me: 1) It defaulted to printing 4 digits (0000, 0001, 0002...) which I think is overkill — who has over 999 layer comps in their psd? — and 2) It started at 0 instead of 1. 
 
